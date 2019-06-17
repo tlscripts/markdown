@@ -13,12 +13,12 @@ hello
 grey bar
 ___
 
-##numbered list
+## numbered list
 1. one
 1. two
 1. three
 
-##tables
+## tables
 
 one|one|one|
 ---|---|---|
@@ -27,6 +27,7 @@ hello|there|this is a table
 # H1
 ## H2
 ### H3
+###### H6
 
 **bold text**
 
