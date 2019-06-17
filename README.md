@@ -1,3 +1,7 @@
+
+This is a non-exhaustive cheat sheet of how to format your text in markdown language. View this README.md file itself to see it it, and of course what you see in this folder is what the output will turn out.
+---
+
 # hello
 hello
 
