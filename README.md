@@ -1,5 +1,5 @@
 
-This is a non-exhaustive cheat sheet of how to format your text in markdown language. View this README.md file itself to see it it, and of course what you see in this folder is what the output will turn out.
+This is a cheat sheet of how to format your text in markdown language. View this README.md file itself to see it it, and of course what you see in this folder is what the output will turn out.
 ---
 
 # hello
@@ -31,6 +31,8 @@ hello|there|this is a table
 # H1
 ## H2
 ### H3
+#### H4
+##### H5
 ###### H6
 
 **bold text**
